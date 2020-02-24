@@ -99,5 +99,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:SophiaDawn/sophiadawn.github.io.git
-  branch: master
+  repo: git@github.com:SophiaDawn/SophiaDawn.github.io.git
