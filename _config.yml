@@ -100,3 +100,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:SophiaDawn/sophiadawn.git
+  branch: master
